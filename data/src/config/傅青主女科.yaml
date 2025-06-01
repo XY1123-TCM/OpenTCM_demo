@@ -1,0 +1,7 @@
+book_title: "傅青主女科"
+db_path:
+data_dir: "../../books/books-jicheng/傅青主女科/"
+book_id: 0
+chapter_break: "======"
+section_break: "====="
+remove_title_number: true

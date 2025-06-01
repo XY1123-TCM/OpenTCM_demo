@@ -1,0 +1,1 @@
+pm2 start yarn --name opentcm-frontend --cwd ./web-frontend -- run dev

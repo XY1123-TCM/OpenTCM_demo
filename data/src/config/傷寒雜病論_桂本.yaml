@@ -1,0 +1,7 @@
+book_title: "傷寒雜病論_桂本"
+db_path:
+data_dir: "../../books/books-jicheng/傷寒雜病論_桂本/"
+book_id: 1
+chapter_break: "====="
+section_break: "===="
+remove_title_number: false
